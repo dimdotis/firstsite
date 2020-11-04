@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House for Sale in Evia Island Greece</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+<style>
+body {
+  background-image: url('images/Porch west view.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+  
+  <div class="menu">
+        <a href="./Details.html">Details</a>
+        <a href="./Pictures.html">Pictures</a>
+        <a href="./Contacts.html">Contacts</a>
+  </div>
+     
+    
+      <div>
+    <h1>House 200 m2 on land property 4000 m2</h1>
+    <p>HOUSE FOR SALE IN EVIA island GREECE        <strong>Amazing View</strong></p>
+   
+    <p id="brief">300m from  <a href="https://www.google.rs/maps/place/%CE%A0%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1
+      +%CE%94%CE%B7%CE%BB%CE%AE%CF%83%CE%BF%CF%85/@38.2177056,24.1813296,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMY9vp8OALvu1PS0PdbPG
+      e2QtH32hCsUPM6Bmjx!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMY9vp8OALvu1PS0PdbPGe2QtH32hCsUPM6Bmjx%3Dw203
+      -h114-k-no!7i4032!8i2268!4m5!3m4!1s0x14a3d828f597ea93:0x8fa093865fffc4c6!8m2!3d38.2177056!4d24.1813293?hl=enl"
+      target="_blank">Beautiful Sandy Beach </a> <br>
+      Located in southwest of Evia island <br>   <a href="https://www.google.rs/maps/@38.2172368,24.1895392,42m/data=!3m1!1e3?hl=en"target="_blank" >Google Maps link</a></p>
+       
+  </div>
+   <!-- 3 visits data collect 
+        4 languages
+        5 publisize
+        
+     -->
+</body>
+</html>
